@@ -8,6 +8,7 @@ setup(name='django-api-generator',
       author_email='omartriki712@gmail.com',
       license='MIT',
       packages=['django-api-generator'],
+      include_package_data=True,
       install_requires=[
           'django',
           'djangorestframework',
