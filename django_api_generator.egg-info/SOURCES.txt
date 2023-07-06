@@ -1,0 +1,12 @@
+setup.py
+django-api-generator/__init__.py
+django-api-generator/repositories.py
+django-api-generator/services.py
+django-api-generator/tests.py
+django-api-generator/views.py
+django_api_generator.egg-info/PKG-INFO
+django_api_generator.egg-info/SOURCES.txt
+django_api_generator.egg-info/dependency_links.txt
+django_api_generator.egg-info/not-zip-safe
+django_api_generator.egg-info/requires.txt
+django_api_generator.egg-info/top_level.txt

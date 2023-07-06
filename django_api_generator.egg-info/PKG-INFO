@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: django-api-generator
+Version: 0.1
+Summary: django genrator api package for my cms
+Home-page: https://github.com/omarenis/django-api-genrator.git
+Author: Omar Triki
+Author-email: omartriki712@gmail.com
+License: MIT
